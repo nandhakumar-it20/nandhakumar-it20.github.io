@@ -36,6 +36,11 @@
  
  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesbyn-21&language=en_IN&marketplace=amazon&region=IN&placement=B07FPV716J&asins=B07FPV716J&linkId=c631be1f5a8fa450d1d168c9c8cae505&show_border=true&link_opens_in_new_window=true"></iframe>
  
+ <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesbyn-21&language=en_IN&marketplace=amazon&region=IN&placement=B07PRVXDGV&asins=B07PRVXDGV&linkId=0c72372276ea964ce386b9dba8ae9ca8&show_border=true&link_opens_in_new_window=true"></iframe>
+ 
+ <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesbyn-21&language=en_IN&marketplace=amazon&region=IN&placement=B08QTTJD3V&asins=B08QTTJD3V&linkId=7df27600dc9b8399263237fc0eefe2ce&show_border=true&link_opens_in_new_window=true"></iframe>
+ 
+ <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesbyn-21&language=en_IN&marketplace=amazon&region=IN&placement=B07QF7LNVD&asins=B07QF7LNVD&linkId=3173bbeb07f2288c6a29a175ff76a202&show_border=true&link_opens_in_new_window=true"></iframe>
  
   <body/>
 <html/>
