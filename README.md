@@ -4,6 +4,7 @@
 ### Amazon Product Linking
 <html>
 <body>
+ <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesbyn-21&language=en_IN&marketplace=amazon&region=IN&placement=B09CCW5XVM&asins=B09CCW5XVM&linkId=25ced9d045b7a72d877fc8267e771cfe&show_border=true&link_opens_in_new_window=true"></iframe>
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesbyn-21&language=en_IN&marketplace=amazon&region=IN&placement=B06XDKWLJH&asins=B06XDKWLJH&linkId=0ff807bb4c625106ed39ec44c8a992bf&show_border=true&link_opens_in_new_window=true"></iframe>
  
  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesbyn-21&language=en_IN&marketplace=amazon&region=IN&placement=B07DNDLHH8&asins=B07DNDLHH8&linkId=bec7b2a743f59d7a5b88f172ebc197cb&show_border=true&link_opens_in_new_window=true"></iframe>
