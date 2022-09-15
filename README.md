@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Amazon Affiliate MArketing by Nithish Nandha</title>
