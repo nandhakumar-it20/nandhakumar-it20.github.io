@@ -1,13 +1,44 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Amazon Affiliate Marketing by Nithish Nandha</title>
-<body>
-<p style="background-image: url('[img_girl.jpg](https://images.pexels.com/photos/2341290/pexels-photo-2341290.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)');">
-
-<img src="grt.jpg" alt="Great Indian Festival 2022">
-
+	<meta charset="utf-8">
+	<title>
+		Amazon Affiliate Marketing Website by NANDHAKUMAR S
+	</title>
 </head>
+<body background="1.jpg" link="#000" alink="#017bf5" vlink="#000">
+	<br />
+	<h3 align="center">
+		<font face="Lato" size="6">LOGO</font>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<font face="cinzel" size="4">
+			<a href="#">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#">VIDEOS</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#">CONTACT US</a>
+		</font>
+	</h3>
+	<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+	<h1 align="center">
+		<font face="Lato" color="#017bf5" size="7">
+			NITHISH NANDHA
+		</font>
+	</h1>
+	<h3 align="center">
+		<font face="Lato" color="#000" size="5">
+			Amazon Affiliate Marketing
+		</font>
+	</h3>
+	<br />
+	<h3 align="center">
+	<a href="#">
+		<font face="Lato" color="#000">GET STARTED</font>
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#">
+		<font face="Lato" color="#fff">SUBSCRIBE US</font>
+	</a>
+	</h3>
 </body>
 </html>
