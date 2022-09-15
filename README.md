@@ -1,7 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 	<title>
 		Amazon Affiliate Marketing Website by NANDHAKUMAR S
 	</title>
@@ -32,13 +34,6 @@
 		</font>
 	</h3>
 	<br />
-	<h3 align="center">
-	<a href="#">
-		<font face="Lato" color="#000">GET STARTED</font>
-	</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#">
-		<font face="Lato" color="#fff">SUBSCRIBE US</font>
-	</a>
-	</h3>
+
 </body>
 </html>
