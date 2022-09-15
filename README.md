@@ -1,11 +1,11 @@
-## Welcome to the page Nithish Nandha
-
-
-### Amazon Product Linking
+<!DOCTYPE html>
 <html>
+<head>
+<title>Amazon Affiliate MArketing by Nithish Nandha</title>
+</head>
 <body>
- 
- 
-  <body/>
-<html/>
 
+
+
+</body>
+</html>
