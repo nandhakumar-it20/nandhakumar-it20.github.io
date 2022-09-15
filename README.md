@@ -41,11 +41,12 @@ ASUS is a leading manufacturer of computer motherboards, chips, laptops, SMPS, a
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B0B5S4S22B&asins=B0B5S4S22B&linkId=f5c3d614cec1449ecbae7d230513e683&show_border=true&link_opens_in_new_window=true"></iframe>
 
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B0B7N9FQBY&asins=B0B7N9FQBY&linkId=610c0cc469eab5b10b61b31d76245ddd&show_border=true&link_opens_in_new_window=true"></iframe>
-
+##
 
 
 ### ASUS Vivobook Pro OLED Series
 #### Best in class Creator Laptop with OLED Display - Ranked No.1 OLED LAPTOP & Ranked No.1 Creators Laptop
+
 <p align="left"><iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B0B8ZR58JF&asins=B0B8ZR58JF&linkId=4a7c4d9c903cd41550cc856a5688f708&show_border=true&link_opens_in_new_window=true"></iframe>
   
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B0BC4SJQVX&asins=B0BC4SJQVX&linkId=2176062177e44f5db4165b3dd3aa5049&show_border=true&link_opens_in_new_window=true"></iframe>
@@ -80,15 +81,59 @@ ASUS is a leading manufacturer of computer motherboards, chips, laptops, SMPS, a
   
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B0B31JLF7M&asins=B0B31JLF7M&linkId=595a506d88e90f2f57e729072780bec8&show_border=true&link_opens_in_new_window=true"></iframe>
   
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B0B31JL41F&asins=B0B31JL41F&linkId=2a9270198ba0de7dfb5b6440dbdf843c&show_border=true&link_opens_in_new_window=true"></iframe>
-  
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B0B31JL41F&asins=B0B31JL41F&linkId=2a9270198ba0de7dfb5b6440dbdf843c&show_border=true&link_opens_in_new_window=true"></iframe>  
 ##
+
+## ASUS TUF Gaming Laptops
+### TUF - Tough Ultimate Force
+#### Asus TUF is an another leading gaming laptop leading the production. This laptop is mainly concentrated for its build quality with a solid plastic with Military Grade Certificate and Performance.
+  
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B09ZXPNJYQ&asins=B09ZXPNJYQ&linkId=16d032f9c6891ffdacdd1ad802fb5bbb&show_border=true&link_opens_in_new_window=true"></iframe>
+  
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B09RMTMBSM&asins=B09RMTMBSM&linkId=a108f7fcfb6487c2247b05d0ebab36a6&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B09RQKK6CZ&asins=B09RQKK6CZ&linkId=f3b2bef7cfa274345907807fc8376b5e&show_border=true&link_opens_in_new_window=true"></iframe>
+  
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B09RMTMBSM&asins=B09RMTMBSM&linkId=d5bd75c8adf84878b6795277829c1272&show_border=true&link_opens_in_new_window=true"></iframe>
+  
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B0B39LDHH3&asins=B0B39LDHH3&linkId=4dc2188041f6300395b9dfe64ff3aff5&show_border=true&link_opens_in_new_window=true"></iframe>
+  
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B09ZXPNJYQ&asins=B09ZXPNJYQ&linkId=2518b0ff6ae222e8b6734b32120f84ba&show_border=true&link_opens_in_new_window=true"></iframe>
+  
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B09Y695S7K&asins=B09Y695S7K&linkId=e8aae7bbb0e937f1d6dcb4ee4caaba02&show_border=true&link_opens_in_new_window=true"></iframe>
+  
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B0B5DZTNZQ&asins=B0B5DZTNZQ&linkId=f6d1d46a8c1146bf8a62667c90f2a4e3&show_border=true&link_opens_in_new_window=true"></iframe>
+  
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B0B84W5PCP&asins=B0B84W5PCP&linkId=ae1ca77b3876e0b094829c0eb8ea79ad&show_border=true&link_opens_in_new_window=true"></iframe>
+  
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B0B71594MH&asins=B0B71594MH&linkId=906fff25bc930fbe62f31c6c093044b5&show_border=true&link_opens_in_new_window=true"></iframe>
+  
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B0B56XY444&asins=B0B56XY444&linkId=7adf139cb72143ae140cf15e120333f0&show_border=true&link_opens_in_new_window=true"></iframe>
+  
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B0B3DMMS9L&asins=B0B3DMMS9L&linkId=7142fdf7f4e9216fe5e5403d82e13922&show_border=true&link_opens_in_new_window=true"></iframe>
+  
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B09TPGV275&asins=B09TPGV275&linkId=6736d3d1d704ad8f652d0a36c1d7c6ab&show_border=true&link_opens_in_new_window=true"></iframe>
+  
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B09X45R6D4&asins=B09X45R6D4&linkId=6ca358c724c51dab0bb689932ee3f618&show_border=true&link_opens_in_new_window=true"></iframe>
+  
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B09TTFTFQH&asins=B09TTFTFQH&linkId=0cd059cbe73908ea1ad03b48b7e2a9cb&show_border=true&link_opens_in_new_window=true"></iframe>
+  
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B0B56XTNWQ&asins=B0B56XTNWQ&linkId=51f57e306ce3a2bd448dc4635ed85923&show_border=true&link_opens_in_new_window=true"></iframe>
+  
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B0B3DR59JG&asins=B0B3DR59JG&linkId=5cfd73e54a2c288e7c4f979a17a2e369&show_border=true&link_opens_in_new_window=true"></iframe>
+  
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B0B3DPZ17X&asins=B0B3DPZ17X&linkId=37b4bab614746a982c30cbda663a1aa0&show_border=true&link_opens_in_new_window=true"></iframe>
+  
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B096KYNHCK&asins=B096KYNHCK&linkId=0d60c8e30bd97f290790647027a3d1dd&show_border=true&link_opens_in_new_window=true"></iframe>
+##
+
+
+  
+  
+  
   
 
 
 
 
-## Author  
-NANDHAKUMAR S
-
-## 🔴 Warning: This page doesn't rate a product or compell you to buy a product. Product choosing is your's choice. This page is just to promote amazon.in products using affiliate marketing. 
+🔴 Warning: This page doesn't rate a product or compell you to buy a product. Product choosing is your's choice. This page is just to promote amazon.in products using affiliate marketing. 
