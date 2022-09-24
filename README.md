@@ -126,7 +126,6 @@ ASUS is a leading manufacturer of computer motherboards, chips, laptops, SMPS, a
   
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B096KYNHCK&asins=B096KYNHCK&linkId=0d60c8e30bd97f290790647027a3d1dd&show_border=true&link_opens_in_new_window=true"></iframe>
   
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=itsuppliesb08-21&language=en_IN&marketplace=amazon&region=IN&placement=B076211S7D&asins=B076211S7D&linkId=cbb9dddfcc515884f6ca560cdd2e6475&show_border=true&link_opens_in_new_window=true"></iframe>
   
 ##
 
